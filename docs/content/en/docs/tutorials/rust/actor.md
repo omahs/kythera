@@ -312,7 +312,7 @@ By leveraging the `return_ipld()`, we can return the value of `ActorState::value
 ### Write method: Add
 
 Finally, let's add our `Add()` method to update the state of the actor. We are aiming to update the value of 
-`ActorState::value` everytime the method is called by adding the passed value to the current state value.
+`ActorState::value` every time the method is called by adding the passed value to the current state value.
 
 The first thing we need is a way to fetch the arguments passed to the message received:
 ```rust
