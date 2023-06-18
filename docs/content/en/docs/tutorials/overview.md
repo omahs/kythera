@@ -13,7 +13,7 @@ weight: 410
 toc: true
 ---
 
-In this section of the documentation our goal is to list intersting tutorials that could prove useful for developers wanting
+In this section of the documentation our goal is to list interesting tutorials that could prove useful for developers wanting
 to use Kythera in their native actors projects.
 
 ## List
